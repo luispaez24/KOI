@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "386795108636",
+    "project_id": "koi1-9a320",
+    "storage_bucket": "koi1-9a320.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:386795108636:android:a5bfe5bd55b03fb4e6e2d9",
+        "android_client_info": {
+          "package_name": "com.example.koi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKIZ45mQHt6SGDh2F0ScrG5Gzh4y78GW0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
